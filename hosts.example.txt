@@ -1,0 +1,4 @@
+# Um host por linha (IP ou nome). Linhas com # são ignoradas.
+192.168.1.1   # router
+8.8.8.8       # DNS da Google
+1.1.1.1       # DNS da Cloudflare
